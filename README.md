@@ -2,6 +2,11 @@
 
 An [InSpec](http://github.com/chef/inspec) compliance profile for use with [Chef Compliance Server](https://docs.chef.io/compliance.html).
 
+## Controls Included
+
+* tmp-1.0 - A /tmp directory must exist
+* tmp-1.1 - The /tmp directory must be owned by the root user
+
 ## Installation
 
 Download the [latest release](https://github.com/nathenharvey/tmp_compliance_profile/releases) from GitHub and upload the tar.gz to your Chef Compliance Server.
