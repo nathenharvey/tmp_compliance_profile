@@ -1,0 +1,7 @@
+name: tmp_compliance_profile
+title: /tmp Compliance Profile
+summary: An Example Compliance Profile
+version: 0.1.0
+maintainer: Nathen Harvey <nharvey@chef.io>
+license: Apache 2.0 License
+copyright: Nathen Harvey <nharvey@chef.io>
