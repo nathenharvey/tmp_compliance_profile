@@ -5,7 +5,7 @@ control 'tmp-1.0' do
   title 'A /tmp directory must exist'
   desc 'A /tmp directory must exist'
   describe file '/tmp' do
-    it { should be_dierctory }
+    it { should be_directory }
   end
 end
 
